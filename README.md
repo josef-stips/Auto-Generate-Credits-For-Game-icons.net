@@ -1,4 +1,4 @@
-# Project Name
+# Auto Generate Credits for Game-icons.net
 
 ## Description
 
